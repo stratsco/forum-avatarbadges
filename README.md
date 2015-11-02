@@ -1,4 +1,4 @@
-discourse-twittercommunity
+discourse-avatarbadges
 ==========================
 
-A plugin to add customizations to twittercommunity.com.
+Adds the Strats logo to staff member avatars on [Strats: Forum](https://forum.strats.co).
