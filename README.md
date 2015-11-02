@@ -1,4 +1,4 @@
-discourse-avatarbadges
-==========================
+Strats: Forum Customizations
+============================
 
-Adds the Strats logo to staff member avatars on [Strats: Forum](https://forum.strats.co).
+Adds the customizations for the [Strats: Forum](https://forum.strats.co) requiring plugin support.
